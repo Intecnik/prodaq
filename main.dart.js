@@ -32766,7 +32766,7 @@ return s},
 agY(){var s=0,r=A.v(t.H),q,p,o,n,m,l,k
 var $async$agY=A.q(function(a,b){if(a===1)return A.r(b,r)
 while(true)switch(s){case 0:s=2
-return A.x(A.ahQ(".env.local"),$async$agY)
+return A.x(A.ahQ(".env.staging"),$async$agY)
 case 2:s=3
 return A.x(A.EL(),$async$agY)
 case 3:q=$.aK
